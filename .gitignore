@@ -33,3 +33,6 @@ database.sqlite
 *.njsproj
 *.sln
 *.sw*
+
+# Config files
+config.js
